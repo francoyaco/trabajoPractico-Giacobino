@@ -19,3 +19,8 @@ header {
 h1{
     color:red;
 }
+.cardsPokemon{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}

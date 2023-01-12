@@ -2,7 +2,7 @@ import "../components/style/style.css"
 import "../components/ItemListContainer"
 import "../components/CartWidget"
 import CartWidget from "../components/CartWidget";
-
+import { Tienda } from "./Tienda";
 export default function NavBar() {
     return ( 
         <>
